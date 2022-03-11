@@ -1,3 +1,3 @@
 My name is Yury Kalbaska
 
-I am a (geo)data engineer / Python / Scala developer.
+I am a (geo)data engineer / Python developer.
